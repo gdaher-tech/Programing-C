@@ -1,15 +1,16 @@
-// FACA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO E O IMPRIMA NA TELA 
+# include <stdio.h>
 
-#include <stdio.h> 
+// 1 - Faça um programa que leia um número inteiro e o imprima
 
-int main(){
+int main() {
 
-    int numero; 
+    int numero;
 
-    printf("Insira um número inteiro: "); 
+    printf("Insira um número inteiro: ");
     scanf("%d", &numero);
-    
-    printf("O número inserido pelo usuário foi %d", numero);
 
-
+    printf("O número digitado foi %d", numero);
 }
+
+
+
