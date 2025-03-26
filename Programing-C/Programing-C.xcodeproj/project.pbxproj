@@ -24,22 +24,22 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		953464BE2D94852100B1154C /* Exceptions for "Estudos " folder in "Programing-C" target */ = {
+		954D34592D94C9020086869C /* Exceptions for "funcoes " folder in "Programing-C" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				"Funcoes /main.c",
+				main.c,
 			);
 			target = 953464A42D9480CB00B1154C /* Programing-C */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		953464B82D9483E800B1154C /* Estudos  */ = {
+		954D34552D94C8E70086869C /* funcoes  */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				953464BE2D94852100B1154C /* Exceptions for "Estudos " folder in "Programing-C" target */,
+				954D34592D94C9020086869C /* Exceptions for "funcoes " folder in "Programing-C" target */,
 			);
-			path = "Estudos ";
+			path = "funcoes ";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -58,7 +58,7 @@
 		9534649C2D9480CB00B1154C = {
 			isa = PBXGroup;
 			children = (
-				953464B82D9483E800B1154C /* Estudos  */,
+				954D34552D94C8E70086869C /* funcoes  */,
 				953464AF2D9480FD00B1154C /* README.md */,
 				953464A62D9480CB00B1154C /* Products */,
 			);
