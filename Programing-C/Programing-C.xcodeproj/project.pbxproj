@@ -24,9 +24,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		953464A72D9480CB00B1154C /* Programing-C */ = {
+		953464B82D9483E800B1154C /* Estudos  */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Programing-C";
+			path = "Estudos ";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,8 +45,8 @@
 		9534649C2D9480CB00B1154C = {
 			isa = PBXGroup;
 			children = (
+				953464B82D9483E800B1154C /* Estudos  */,
 				953464AF2D9480FD00B1154C /* README.md */,
-				953464A72D9480CB00B1154C /* Programing-C */,
 				953464A62D9480CB00B1154C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,9 +73,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				953464A72D9480CB00B1154C /* Programing-C */,
 			);
 			name = "Programing-C";
 			packageProductDependencies = (
